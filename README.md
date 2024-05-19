@@ -7,7 +7,7 @@
 <h3 align="center">A dedicated frontend developer hailing from Sri Lanka. I create a digital masterpiece together with a perfect blend of aesthetics and functionality.</h3>
 
 
-<img align="right" alt="Coding" width="480" height="257" frameBorder="0" class="giphy-embed" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp0eWhua3YycGE1MWNxbmpqY2kyM3dnZmNiaDNodzlzZmRzZnd5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif">
+<img align="right" alt="Coding" width="400" class="giphy-embed" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp0eWhua3YycGE1MWNxbmpqY2kyM3dnZmNiaDNodzlzZmRzZnd5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif">
 
 
 - 🌱 I’m currently learning **Java , HTML**
